@@ -32,7 +32,7 @@ Upload index.html to the root of the repository. Keep the filename exactly index
 In the repository, open Settings → Pages.
 Under Build and deployment, choose Deploy from a branch.
 Choose branch main and folder /(root), then save.
-After GitHub Pages finishes deploying, open the URL shown on the Pages settings screen. For a repository named sec-vibe, it typically follows https://YOUR-USERNAME.github.io/sec-vibe/.
+After GitHub Pages finishes deploying, open the URL shown on the Pages settings screen. For a repository named sec-vibe, it typically follows https://darkbro-ops.github.io/sec-vibe/.
 Responsible-use guidance
 Sec-Vibe is a learning index and reference hub, not permission to test a target. Only practise in your own lab, intentionally vulnerable training environments, or systems for which you have explicit written authorization. Follow program scope, rate limits, disclosure rules, and applicable law. This project is not legal advice.
 
